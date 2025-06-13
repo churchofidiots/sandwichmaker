@@ -7,8 +7,9 @@ h1
 body
 {
     background-color: rgb(63, 63, 113);
-    background-image: url('your-path/A_seamless,_hand-drawn_digital_illustration_border.png');
-    background-repeat: repeat-x;
+    background-image: url('https://mir-s3-cdn-cf.behance.net/project_modules/source/77f83260879201.5a5cb3fe6c5bb.jpg');
+    width: 100%;
+    height: auto;
     color:rgb(0, 0, 0);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
